@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A programmer has interests in AI and automation in game development.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kasetonx@gmail.com](mailto:kasetonx@gmail.com)
