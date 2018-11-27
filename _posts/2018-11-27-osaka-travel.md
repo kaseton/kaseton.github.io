@@ -6,6 +6,7 @@ title: 최신클럽 오사카 여행
 <h1>호텔</h1>
 <h2>시티호텔</h2>
 <h3>Hillarys Hotel (5점 만점 / 3점, http://www.hillarys.jp/)</h3>
+<div>
 <ul>
  <li>3박-319,500 / 2인 이용 기준/ 조식별도 </li>
  <li>5% 수수료 15,600원 부과시 335,500원</li>
@@ -25,8 +26,10 @@ title: 최신클럽 오사카 여행
  </ul>
  <li>위치정보: Nankai 선 Namba 역에서 도보 6분 거리</li>
 </ul>
+</div>
 
 <h3>Monterey Grasmere Osaka (5점 만점 / 4점, https://www.hotelmonterey.co.jp/grasmere_osaka/) </h3>
+<div>
 <ul>
  <li>3박-￦544,200 / 2인 이용 기준) DOUBLE / 조식별도</li>
  <li>5% 수수료 27,300원 부과시 571,500원</li>
@@ -59,8 +62,10 @@ title: 최신클럽 오사카 여행
    <li>인텍스 전시장(INTEX OSAKA) - 약 10km</li>
   </ul>
 </ul>
+</div>
 
-<h3>Swissotel Nankai Osaka (5점 만점 / 5점, https://www.swissotel-osaka.co.jp/)
+<h3>Swissotel Nankai Osaka (5점 만점 / 5점, https://www.swissotel-osaka.co.jp/)</h3>
+<div>
 <ul>
  <li>3박- ￦571,300 / 2인 이용 기준 / Classic Queen Room </li>
  <li>5% 수수료 28,600원 부과시 599,900원</li>
@@ -85,11 +90,13 @@ title: 최신클럽 오사카 여행
    <li>오사카 국제 컨벤션 약 3 km</li>
    <li>유니버셜 스튜디오 약 6 km</li>
   </ul>
-  
+</ul>
+</div>
 
 <h2> 대욕장 호텔 </h2>
 
 <h3>Candeo Hotels Osaka Namba (5점 만점 / 4점, https://www.candeohotels.com/namba/ </h3>
+<div>
 <ul>
  <li>3박-￦579,400 / 2인 이용 기준)  Superior Queen Double Room Non Smoking / 조식별도</li>
  <li>5% 수수료 29,00원 부과시 608,400원</li>
@@ -116,8 +123,10 @@ title: 최신클럽 오사카 여행
    <li>Universal Studios Japan : 차량 약 30분 거리</li>
   </ul>
 </ul>
+</div>
 
 <h3>Onyado Nono Namba Natural Hot Spring (5점 만점 / 4점, https://www.hotespa.net/hotels/nono_nanba/)</h3>
+<div>
 <ul>
  <li>3박-￦555,800/ 2인 이용기준) 1 Queen Bed or 2 Twin Beds Request - No Cleaning During Your Stay // 조식별도 </li>
  <li>5% 수수료 27,800원 부과시 583,600원</li>
@@ -134,8 +143,10 @@ title: 최신클럽 오사카 여행
    <li>지하철 미도스지선 '난바 역' 16번 출구에서 도보 약 10분</li>
   </ul>
 </ul>
- 
+</div>
+
 <h3> Dormy Inn Premium Namba Natural Hot Spring  (5점 만점 / 4점, https://www.hotespa.net/hotels/premium_nanba/)</h3>
+<div>
 <ul>
  <li>3박-￦466,700/ 2인 이용기준)  1 Double Bed Room, Non Smoking Without Housekeeping // 조식별도 </li>
  <li>5% 수수료 23,400원 부과시 490,100원</li>
@@ -152,4 +163,4 @@ title: 최신클럽 오사카 여행
    <li>간사이 국제공항에서 난카이 남바역까지 약 40여분 소요, 난카이 남바역에서 호텔까지 도보 약 10분 소요</li>
   </ul>
 </ul>
- 
+</div>
