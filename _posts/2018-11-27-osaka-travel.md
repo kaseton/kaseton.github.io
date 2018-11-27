@@ -135,7 +135,6 @@ title: 최신클럽 오사카 여행
 
 <h3><a href="https://www.hotespa.net/hotels/nono_nanba/">Onyado Nono Namba Natural Hot Spring</a> (5점 만점 / 4점)</h3>
 <ul>
- <li></li>
  <li>3박-￦555,800/ 2인 이용기준) 1 Queen Bed or 2 Twin Beds Request - No Cleaning During Your Stay // 조식별도 </li>
  <li>5% 수수료 27,800원 부과시 583,600원</li>
  <li>Queen Room : 23 m², 퀸 베드 1개
@@ -157,7 +156,6 @@ title: 최신클럽 오사카 여행
 
 <h3><a href="https://www.hotespa.net/hotels/premium_nanba/">Dormy Inn Premium Namba Natural Hot Spring</a> (5점 만점 / 4점)</h3>
 <ul>
- <li></li>
  <li>3박-￦466,700/ 2인 이용기준)  1 Double Bed Room, Non Smoking Without Housekeeping // 조식별도 </li>
  <li>5% 수수료 23,400원 부과시 490,100원</li>
  <li>더블룸 : 객실크기 15㎡ / 침대 140cm x 195cm</li>
