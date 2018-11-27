@@ -5,9 +5,10 @@ title: 최신클럽 오사카 여행
 
 <h1>호텔</h1>
 <h2>시티호텔</h2>
-<h3>Hillarys Hotel (5점 만점 / 3점, http://www.hillarys.jp/)</h3>
+<h3>Hillarys Hotel (5점 만점 / 3점)</h3>
 <div>
 <ul>
+ <li>http://www.hillarys.jp/</li>
  <li>3박-319,500 / 2인 이용 기준/ 조식별도 </li>
  <li>5% 수수료 15,600원 부과시 335,500원</li>
  <li>더블: 객실크기 13㎡  침대폭 140 cm
@@ -28,25 +29,26 @@ title: 최신클럽 오사카 여행
 </ul>
 </div>
 
-<h3>Monterey Grasmere Osaka (5점 만점 / 4점, https://www.hotelmonterey.co.jp/grasmere_osaka/) </h3>
+<h3>Monterey Grasmere Osaka (5점 만점 / 4점) </h3>
 <div>
 <ul>
+ <li>https://www.hotelmonterey.co.jp/grasmere_osaka/</li>
  <li>3박-￦544,200 / 2인 이용 기준) DOUBLE / 조식별도</li>
  <li>5% 수수료 27,300원 부과시 571,500원</li>
  <li>더블 : 객실크기 19 sqm 베드폭 160 <li>203cm</li>
   <ul>
-   <li>인터넷 : 객실 내 인터넷 무료 가능(유선랜) 
-   <li>객실내 Wi-Fi 사용가능 (무료) 
-   <li>체크인 15:00 이후, 체크아웃 12:00 이전 
+   <li>인터넷 : 객실 내 인터넷 무료 가능(유선랜) </li>
+   <li>객실내 Wi-Fi 사용가능 (무료) </li>
+   <li>체크인 15:00 이후, 체크아웃 12:00 이전 </li>
   </ul>
  <li>교통편</li>
   <ul>
-	<li>JR 남바역 도보 1분
-	<li>요츠바시선 남바역 북개찰구 30번A출구 직접 연결
-	<li>센니치마에선 남바역 서개찰구에서 도보 1분
-	<li>미도스지선 남바역 북서 혹은 북남 개찰구에서 도보 5분 거리
-	<li>한신/긴테츠 오사카남바역 서개찰구에서 도보 5분
-	<li>난카이 남바역 3층북쪽출구 혹은 2층 중앙출구에서 도보 7분
+	<li>JR 남바역 도보 1분</li>
+	<li>요츠바시선 남바역 북개찰구 30번A출구 직접 연결</li>
+	<li>센니치마에선 남바역 서개찰구에서 도보 1분</li>
+	<li>미도스지선 남바역 북서 혹은 북남 개찰구에서 도보 5분 거리</li>
+	<li>한신/긴테츠 오사카남바역 서개찰구에서 도보 5분</li>
+	<li>난카이 남바역 3층북쪽출구 혹은 2층 중앙출구에서 도보 7분</li>
 	<li>간사이공항에서 이동시</li>
 	 <ul>
 	  <li>오사카 시티에어터미널(OCAT)까지 직행버스로 약 48분</li>
@@ -64,21 +66,22 @@ title: 최신클럽 오사카 여행
 </ul>
 </div>
 
-<h3>Swissotel Nankai Osaka (5점 만점 / 5점, https://www.swissotel-osaka.co.jp/)</h3>
+<h3>Swissotel Nankai Osaka (5점 만점 / 5점)</h3>
 <div>
 <ul>
+ <li>https://www.swissotel-osaka.co.jp/</li>
  <li>3박- ￦571,300 / 2인 이용 기준 / Classic Queen Room </li>
  <li>5% 수수료 28,600원 부과시 599,900원</li>
  <li>객실크기 22~23㎡, 베드폭 160cm <li>1대</li>
   <ul>
-   <li>체크인: 오후 3시 이후 / 체크아웃: 오전 11시 이전
-   <li>인터넷: 호텔 전구역에서 무료 WiFi 서비스 이용 가능 
-   <li>주차: 유료
+   <li>체크인: 오후 3시 이후 / 체크아웃: 오전 11시 이전</li>
+   <li>인터넷: 호텔 전구역에서 무료 WiFi 서비스 이용 가능 </li>
+   <li>주차: 유료</li>
   </ul>
  <li>교통편</li>
   <ul>
-   <li>난카이선 남바역과 연결되어 있는 호텔
-   <li>간사이 공항: 라피도 익스프레스 이용시 약 30분 소요, 난카이공항선 급행 이용시 약 50분 소요\
+   <li>난카이선 남바역과 연결되어 있는 호텔</li>
+   <li>간사이 공항: 라피도 익스프레스 이용시 약 30분 소요, 난카이공항선 급행 이용시 약 50분 소요</li>
   </ul>
  <li>위치정보</li>
   <ul>
@@ -95,17 +98,18 @@ title: 최신클럽 오사카 여행
 
 <h2> 대욕장 호텔 </h2>
 
-<h3>Candeo Hotels Osaka Namba (5점 만점 / 4점, https://www.candeohotels.com/namba/ </h3>
+<h3>Candeo Hotels Osaka Namba (5점 만점 / 4점)</h3>
 <div>
 <ul>
+ <li>https://www.candeohotels.com/namba/ </li>
  <li>3박-￦579,400 / 2인 이용 기준)  Superior Queen Double Room Non Smoking / 조식별도</li>
  <li>5% 수수료 29,00원 부과시 608,400원</li>
  <li>Superior Sofa Queen Room: 16 m², 침대폭 160cm <li>1대</li>
   <ul>
-   <li>100% 금연 호텔입니다. 
-   <li>체크인: 오후 3시 이후 / 체크아웃: 오전 11시 이전
-   <li>인터넷: 호텔 전구역에서 무료 WiFi
-   <li>투숙객 17층에 있는 '스카이스파' 이용가능
+   <li>100% 금연 호텔입니다. </li>
+   <li>체크인: 오후 3시 이후 / 체크아웃: 오전 11시 이전</li>
+   <li>인터넷: 호텔 전구역에서 무료 WiFi</li>
+   <li>투숙객 17층에 있는 '스카이스파' 이용가능</li>
   </ul>
  <li>교통편</li>
   <ul>
@@ -125,9 +129,10 @@ title: 최신클럽 오사카 여행
 </ul>
 </div>
 
-<h3>Onyado Nono Namba Natural Hot Spring (5점 만점 / 4점, https://www.hotespa.net/hotels/nono_nanba/)</h3>
+<h3>Onyado Nono Namba Natural Hot Spring (5점 만점 / 4점)</h3>
 <div>
 <ul>
+ <li>https://www.hotespa.net/hotels/nono_nanba/</li>
  <li>3박-￦555,800/ 2인 이용기준) 1 Queen Bed or 2 Twin Beds Request - No Cleaning During Your Stay // 조식별도 </li>
  <li>5% 수수료 27,800원 부과시 583,600원</li>
  <li>Queen Room : 23 m², 퀸 베드 1개</li>
