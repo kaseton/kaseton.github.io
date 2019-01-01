@@ -16,7 +16,7 @@ title: 최신클럽 오사카 여행
   <li>KE 726 N 21JAN 1 KIXICN HK6  1810 2015  21JAN  E  KE/JGCE7J</li>
 </ul>
 
-<h1>대략적인 시간표 & 계획</h2>
+<h1>대략적인 시간표 & 계획</h1>
 <table border=1 style="font-size: 10pt;">
   <tr><td>날짜</td><td>시간 & 활동</td><td>비고</td></tr>
   <tr>
